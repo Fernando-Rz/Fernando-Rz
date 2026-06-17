@@ -18,8 +18,8 @@
 <br> 
 
 
-- 🔭 I’m currently working on the Qooked app with my friends but also doing small projects on the side
-- 🌱 I’m currently learning some AWS and  strengthening my backend skills
+- 🔭 I’m currently working on small projects on the side and finding learning opportunities
+- 🌱 I am interested in infrastructure and cloud technologies, most of my experience is within AWS
 - 💬 Ask me about anything music related : ) 
 
 
